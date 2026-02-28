@@ -1,0 +1,7 @@
+Running with DependenciesYou've modified the ingestion/trips.py asset and want to run it plus all downstream assets. Which command should you use? (1 point)
+
+
+
+
+bruin run ingestion/trips.py --downstream
+

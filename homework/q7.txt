@@ -1,0 +1,6 @@
+Question 7. First-Time RunYou're running a Bruin pipeline for the first time on a new DuckDB database. What flag should you use to ensure tables are created from scratch? (1 point)
+
+
+
+--full-refresh
+

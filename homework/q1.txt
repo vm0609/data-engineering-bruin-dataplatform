@@ -1,0 +1,3 @@
+Bruin Pipeline StructureIn a Bruin project, what are the required files/directories?
+
+c. bruin.yml and pipeline/ with pipeline.yml and assets/

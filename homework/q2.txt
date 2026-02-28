@@ -4,3 +4,7 @@
 
 
 time_interval - incremental based on a time column
+
+it handles incremental processing by
+ deleting data within 
+ the specified time range (based on a column like pickup_datetime) and then inserting the new data for that same period. This ensures idempotency—you can re-run the pipeline for a specific month without creating duplicates.
